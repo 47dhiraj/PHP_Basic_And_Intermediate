@@ -1,0 +1,44 @@
+
+*{
+	margin: 0px;
+	text-decoration: none;
+
+}
+
+.left{
+	float: left;
+	width: 12%;
+	height: 50px;
+	background-color: orange;
+	text-align: center;
+	line-height: 50px;
+
+}
+.right{
+	float: right;
+	height: 50px;
+	width: 88%;
+	text-align: center; 
+	background-color: red;
+	line-height: 50px;
+	font-size: 25px;
+}
+
+#sidebar{
+	float: left;
+	width: 12%;
+	height: 660px;
+	background-color: aqua;	
+}
+
+.menu a{
+	display: block;
+	border-bottom: 2px solid blue;
+	padding: 10px;
+	text-align: center;
+	background-color: #66ff66;
+}
+
+.menu a:hover{
+	background-color: #ff6699;
+}
